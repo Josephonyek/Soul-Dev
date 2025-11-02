@@ -1,0 +1,18 @@
+*{
+  margin:0;
+  padding: 0;
+}
+.head{
+  background: black;
+  color: white;
+}
+p{
+  align-content: center;
+  align-self: centre;
+}
+button{
+  background: blue;
+  color:white;
+  width:300px;
+  border-radius: 9px;
+}
